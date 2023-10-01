@@ -1,0 +1,234 @@
+[
+  {
+    "name": "angle-square",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 12H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4.00004 4L4 12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 8V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 8H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "angle",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 12H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8.00004 5.07183L4 12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6 8.5359C6.60808 8.88697 7.11303 9.39192 7.4641 10C7.81517 10.6081 8 11.2979 8 12\" stroke=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "arrow-down",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4L8 12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 12L6.5 10.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 12L9.5 10.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "arrow-left",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.9999 8L4 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 8L5.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 8L5.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "arrow-right",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8L12.0001 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 8L10.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 8L10.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "arrow-up",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 11.9999L8 4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 4L6.5 5.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 4L9.5 5.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "canvas-easel",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 13L6 10M11 13L10 10M8 4V3M5.5 12H10.5M3.6 10H12.4C12.7314 10 13 9.73137 13 9.4V4.6C13 4.26863 12.7314 4 12.4 4H3.6C3.26863 4 3 4.26863 3 4.6V9.4C3 9.73137 3.26863 10 3.6 10Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "canvas-hanging",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.4 11H3.6C3.26863 11 3 10.7314 3 10.4V5.6C3 5.26863 3.26863 5 3.6 5H12.4C12.7314 5 13 5.26863 13 5.6V10.4C13 10.7314 12.7314 11 12.4 11Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M5 5L8 3\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11 5L8 3\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "chevron-down",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.99976 10L11.9998 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 10L4 6.00001\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "chevron-left",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 8L10 4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M10 12L6 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "chevron-right",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 4L10 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6 12L10 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "chevron-up",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 10L8 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 10L8 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "code-braces",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 5C11 5 9 8 11 8C9 8 11 11 9 11M7 5.00001C5 5.00001 7 8.00001 5 8.00001C7 8.00001 5 11 7 11\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "code",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 5L7.5 11\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 8L6 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6 10L4 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 8L10 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M10 10L12 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "dots-1x3",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"8\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"8\" cy=\"12\" r=\"1\" fill=\"black\"/>\n<circle cx=\"8\" cy=\"4\" r=\"1\" fill=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "dots-2x3",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"6\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"6\" cy=\"12\" r=\"1\" fill=\"black\"/>\n<circle cx=\"6\" cy=\"4\" r=\"1\" fill=\"black\"/>\n<circle cx=\"10\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"10\" cy=\"12\" r=\"1\" fill=\"black\"/>\n<circle cx=\"10\" cy=\"4\" r=\"1\" fill=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "dots-3x1",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"8\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"12\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"4\" cy=\"8\" r=\"1\" fill=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "dots-3x2",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"8\" cy=\"10\" r=\"1\" fill=\"black\"/>\n<circle cx=\"12\" cy=\"10\" r=\"1\" fill=\"black\"/>\n<circle cx=\"4\" cy=\"10\" r=\"1\" fill=\"black\"/>\n<circle cx=\"8\" cy=\"6\" r=\"1\" fill=\"black\"/>\n<circle cx=\"12\" cy=\"6\" r=\"1\" fill=\"black\"/>\n<circle cx=\"4\" cy=\"6\" r=\"1\" fill=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "dots-3x3",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"8\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"8\" cy=\"12\" r=\"1\" fill=\"black\"/>\n<circle cx=\"8\" cy=\"4\" r=\"1\" fill=\"black\"/>\n<circle cx=\"4\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"4\" cy=\"12\" r=\"1\" fill=\"black\"/>\n<circle cx=\"4\" cy=\"4\" r=\"1\" fill=\"black\"/>\n<circle cx=\"12\" cy=\"8\" r=\"1\" fill=\"black\"/>\n<circle cx=\"12\" cy=\"12\" r=\"1\" fill=\"black\"/>\n<circle cx=\"12\" cy=\"4\" r=\"1\" fill=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "download",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4L8 10\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 10L6.5 8.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 10L9.5 8.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M5 12H10.9999\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "duplicate",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 9.5H4C3.72386 9.5 3.5 9.27614 3.5 9V4C3.5 3.72386 3.72386 3.5 4 3.5H9C9.27614 3.5 9.5 3.72386 9.5 4V9C9.5 9.27614 9.27614 9.5 9 9.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 12.5H7C6.72386 12.5 6.5 12.2761 6.5 12V7C6.5 6.72386 6.72386 6.5 7 6.5H12C12.2761 6.5 12.5 6.72386 12.5 7V12C12.5 12.2761 12.2761 12.5 12 12.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "eject",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 9L8.00002 5L10.9999 9H5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M5 11H11.1343\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "fast-forward",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 5L7.99996 8L4 11V5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8 5L12 8L8 11V5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "grid-1x2",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 12H4.6C4.26863 12 4 11.7314 4 11.4V4.6C4 4.26863 4.26863 4 4.6 4H11.4C11.7314 4 12 4.26863 12 4.6V11.4C12 11.7314 11.7314 12 11.4 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 8H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "grid-1x3",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 12.5H4.6C4.26863 12.5 4 12.2314 4 11.9V4.1C4 3.76863 4.26863 3.5 4.6 3.5H11.4C11.7314 3.5 12 3.76863 12 4.1V11.9C12 12.2314 11.7314 12.5 11.4 12.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 9.65662H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 6.5H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "grid-2x1",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 12H4.6C4.26863 12 4 11.7314 4 11.4V4.6C4 4.26863 4.26863 4 4.6 4H11.4C11.7314 4 12 4.26863 12 4.6V11.4C12 11.7314 11.7314 12 11.4 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 4V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "grid-2x2",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 12H4.6C4.26863 12 4 11.7314 4 11.4V4.6C4 4.26863 4.26863 4 4.6 4H11.4C11.7314 4 12 4.26863 12 4.6V11.4C12 11.7314 11.7314 12 11.4 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 4V12M4 8H12\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "grid-3x1",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.9 12H4.1C3.76863 12 3.5 11.7314 3.5 11.4V4.6C3.5 4.26863 3.76863 4 4.1 4H11.9C12.2314 4 12.5 4.26863 12.5 4.6V11.4C12.5 11.7314 12.2314 12 11.9 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6.5 4V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9.5 4V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "heart",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.99994 12C7.99994 12 6.00014 10 5.00004 9C3.99992 7.99999 3.49989 6.5 4.49994 5.5C5.49999 4.5 7 4.50002 8.00002 6.00001\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8.00003 12C8.00003 12 9.9998 10 10.9999 9.00001C12.0001 7.99999 12.5001 6.50001 11.5 5.50001C10.4999 4.50001 9 4.50002 7.99995 6.00002\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "horizontal-stack-2",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 12L6 4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M10 12L10 4\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "horizontal-stack-3",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 13L4 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 13L8 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 13L12 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "image",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.4 12H3.6C3.26863 12 3 11.7314 3 11.4V4.6C3 4.26863 3.26863 4 3.6 4H12.4C12.7314 4 13 4.26863 13 4.6V11.4C13 11.7314 12.7314 12 12.4 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M13 11L6 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11.5 6.5C11.5 7.05228 11.0523 7.5 10.5 7.5C9.94772 7.5 9.5 7.05228 9.5 6.5C9.5 5.94772 9.94772 5.5 10.5 5.5C11.0523 5.5 11.5 5.94772 11.5 6.5Z\" fill=\"black\"/>\n<path d=\"M6 6L3 10\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "law-scales",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M5.91919 12H10\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 6C5.5 6 6.5 5 8 5C9.5 5 10.5 6 12 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M5 6L4 9.5C4.5 10 5.5 10 6 9.5L5 6Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11 6L10 9.5C10.5 10 11.5 10 12 9.5L11 6Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "layout-2x2",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.4 6.99999L4.1 7C3.76863 7 3.5 6.73137 3.5 6.4V4.09999C3.5 3.76862 3.76863 3.49999 4.1 3.49999L6.4 3.49999C6.73137 3.49998 7 3.76861 7 4.09999V6.39999C7 6.73136 6.73137 6.99999 6.4 6.99999Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11.9 7.00002L9.60001 7.00005C9.26863 7.00005 9 6.73142 9 6.40005V4.10004C9 3.76867 9.26862 3.50004 9.59999 3.50004L11.9 3.50001C12.2314 3.5 12.5 3.76863 12.5 4.10001V6.40002C12.5 6.73138 12.2314 7.00001 11.9 7.00002Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11.9 12.5H9.6C9.26863 12.5 9 12.2314 9 11.9V9.6C9 9.26863 9.26863 9 9.6 9H11.9C12.2314 9 12.5 9.26863 12.5 9.6V11.9C12.5 12.2314 12.2314 12.5 11.9 12.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6.40007 12.5H4.10003C3.76865 12.5 3.50001 12.2314 3.50003 11.9L3.50014 9.59997C3.50016 9.26861 3.76879 9 4.10014 9H6.40019C6.73157 9 7.0002 9.26865 7.00019 9.60003L7.00007 11.9C7.00006 12.2314 6.73143 12.5 6.40007 12.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "location-pin",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.7922 11.688L6.0001 9C4.00002 6 6.00013 4 8.00016 4C10.0002 4 12 6 10.0001 9L8.20822 11.688C8.10927 11.8364 7.89115 11.8364 7.7922 11.688Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9 6.63611C9 7.18839 8.55228 7.63611 8 7.63611C7.44772 7.63611 7 7.18839 7 6.63611C7 6.08382 7.44772 5.63611 8 5.63611C8.55228 5.63611 9 6.08382 9 6.63611Z\" fill=\"black\"/>\n</svg>\n"
+  },
+  {
+    "name": "magnify",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.67165 8.67158C9.64796 7.69527 9.64796 6.11236 8.67165 5.13604C7.69534 4.15973 6.11243 4.15973 5.13612 5.13604C4.15981 6.11236 4.15981 7.69527 5.13612 8.67158C6.11243 9.64789 7.69534 9.64789 8.67165 8.67158ZM8.67165 8.67158L11.5 11.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "minus",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8L12 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "pause",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 11V5M6 11V5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "play",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 5L9.99996 8L6 11V5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "plus",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 12L8 4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 8L12 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "rewind",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00004 8L12 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8.00004 8L12 11\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M12 5V11\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4.00004 8L8 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4.00004 8L8 11\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 5V11\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "short-arrow-down",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 5L8 11\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 11L6.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 11L9.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "short-arrow-left",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 8L4.99996 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M5 8L6.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M5 8L6.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "short-arrow-right",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 8L11 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11 8L9.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11 8L9.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "short-arrow-up",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 10.9999L8 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 5L6.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 5L9.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "skip-backward",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 11V5M6.00004 8L10 5V11L6.00004 8Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "skip-forward",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 11V5M9.99996 8L6 5V11L9.99996 8Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "small-chevron-down",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 9L10 7\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 9L6 7\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "small-chevron-left",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 8L9 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9 10L7 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "small-chevron-right",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 6L9 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M7 10L9 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "small-chevron-up",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 9L8 7\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M10 9L8 7\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "smartphone-down",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.5 14H5.5C4.94772 14 4.5 13.5523 4.5 13V3C4.5 2.44772 4.94772 2 5.5 2H10.5C11.0523 2 11.5 2.44772 11.5 3V13C11.5 13.5523 11.0523 14 10.5 14Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 5L8 11\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 11L6.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 11L9.5 9.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M7 12.5L9 12.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "smartphone-up",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.5 2H5.5C4.94772 2 4.5 2.44771 4.5 3V13C4.5 13.5523 4.94772 14 5.5 14H10.5C11.0523 14 11.5 13.5523 11.5 13V3C11.5 2.44771 11.0523 2 10.5 2Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 11L8 5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 5L6.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 5L9.5 6.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M7 12.5L9 12.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "smartphone",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.5 14H5.5C4.94772 14 4.5 13.5523 4.5 13V3C4.5 2.44772 4.94772 2 5.5 2H10.5C11.0523 2 11.5 2.44772 11.5 3V13C11.5 13.5523 11.0523 14 10.5 14Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M7 12.5L9 12.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "stack-2",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 10L12 10\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 6L12 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "stack-3",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 12L12 12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 8L12 8\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4 4L12 4\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "stop",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.4 11H5.6C5.26863 11 5 10.7314 5 10.4V5.6C5 5.26863 5.26863 5 5.6 5H10.4C10.7314 5 11 5.26863 11 5.6V10.4C11 10.7314 10.7314 11 10.4 11Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "video",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.4 12H3.6C3.26863 12 3 11.7314 3 11.4V4.6C3 4.26863 3.26863 4 3.6 4H12.4C12.7314 4 13 4.26863 13 4.6V11.4C13 11.7314 12.7314 12 12.4 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M7 10V6\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9.5 8L7 10\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9.5 8.00001L7 6\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  }
+]

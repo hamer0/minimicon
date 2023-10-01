@@ -1,0 +1,23 @@
+.searchbar__container {
+    height: 40px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+
+    border-bottom: 1px solid #eeeeee;
+}
+
+.searchbar__input {
+    border: none;
+    flex: 1;
+    font-size: 14px;
+    height: 40px;
+    background-color: transparent;
+}
+
+.searchbar__input:focus {
+    outline: none;
+    border-color: #181717;
+}

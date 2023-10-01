@@ -1,0 +1,108 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 80px;
+    margin: 0px 140px;
+
+    border-bottom: 1px solid #eeeeee;
+}
+
+.toolbar {
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    height: 80px;
+    margin: 0px 140px;
+    gap: 80px;
+
+    background-color: white;
+    padding-bottom: 40px;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    height: 300px;
+    margin: 0px 140px;
+    gap: 16px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+
+    width: 100%;
+    height: 48px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+
+    text-align: center;
+    
+    background-color: #181717;
+    color: white;
+}
+
+.footer a {
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline white 1px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.Button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    border-radius: 8px;
+    border-width: 0px;
+    height: 40px;
+    padding: 0px 8px;
+    gap: 8px;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    color: white;
+    background-color: #181717;
+
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: #888888;
+    margin: 0px;
+}
+
+
