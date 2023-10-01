@@ -46,7 +46,7 @@
 }
 
 .radio__label:hover {
-    background-color: #d5d5d5;
+    background-color: #f5f5f5;
 }
 
 .radio__label:not(:last-of-type) {
