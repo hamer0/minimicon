@@ -29,7 +29,7 @@ interface IconCardProps {
 const IconCard = ({label, svg}: IconCardProps) => {
     return (
         <div className="icon-card">
-            <div className='icon-card__frame'>
+            <div onClick={()=> navigator.clipboard.writeText(svg)} className='icon-card__frame'>
                 <div className="icon-card__icon" dangerouslySetInnerHTML={{__html: svg}}></div>
             </div>
             <h3 className='icon-card__label'>{label}</h3>
