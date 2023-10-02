@@ -1,15 +1,15 @@
 {
-  "name": "project-name",
+  "name": "minimicon",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "Your Name",
+  "author": "Lewis Hamer",
   "license": "MIT",
   "scripts": {
     "start": "vite --open",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "format": "prettier --write \"./**/*.ts\"  \"./**/*.tsx\"  \"./**/*.css\" \"./**/*.html\"",
-    "build": "tsc && vite build",
+    "build": "tsc && node load-svg.cjs && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
