@@ -5,11 +5,13 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import IconView from "./components/IconView";
 import Toolbar from "./components/Toolbar";
+import { SVGCopyFormat } from "./tool/copy-svg";
 
 function App() {
 
   const [iconsJSON, setIconsJSON] = useState<{name: string, svg:string}[] | undefined>();
   const [searchTerm, setSearchTerm] = useState("");
+  const [copyFormat, setCopyFormat] = useState<SVGCopyFormat>("SVG");
 
   useEffect(()=> {
     fetch('icons.json')
@@ -24,9 +26,18 @@ function App() {
   return (
     <>
       <Header />
-      <Hero iconCount={iconsJSON?.length}/>
-      <Toolbar onsearch={setSearchTerm}/>
-      <IconView iconData={iconsJSON} searchTerm={searchTerm} />
+      <Hero 
+        iconCount={iconsJSON?.length}
+      />
+      <Toolbar 
+        onselectFormat={setCopyFormat}
+        onsearch={setSearchTerm}
+      />
+      <IconView 
+        iconData={iconsJSON} 
+        searchTerm={searchTerm} 
+        copyFormat={copyFormat}
+      />
       <Footer />
     </>
   );

@@ -4,14 +4,22 @@ import './RadioGroup.css';
 interface RadioGroupProps {
     inputName: string;
     values: string[];
+    onchange: (value: string)=>void;
 }
 
 const RadioGroup = ({
     inputName,
     values,
+    onchange,
 }: RadioGroupProps) => {
     const [checked, setChecked] = useState(values[0]);
     const id = inputName + "-radio-group";
+
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+        const value = e.target.value
+        setChecked(value);
+        onchange(value);
+    }
 
     return (
         <div className='radio-group-container'>
@@ -27,7 +35,7 @@ const RadioGroup = ({
                         name={inputName}
                         value={value}
                         checked={value === checked}
-                        onChange={(e) => setChecked(e.target.value)}
+                        onChange={handleChange}
                     />
                     <label 
                         key={"label-" + i} 
