@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hamer0/minimicon/blob/master/LICENSE)
 
 <p align="center">
-  <img src=https://github.com/hamer0/minimicon/assets/77765949/931be716-e300-4e39-ad3c-f93478005730 width="300"/>
+  <img width="390" alt="image" src="https://github.com/hamer0/minimicon/assets/77765949/e55ccf04-7a3f-4f69-8095-5b841e59e856">
 </p>
 
 <p align="center">
@@ -10,7 +10,9 @@
 </p>
 
 ## Usage
-Go to the site and click on an icon to copy it to the clipboard. Alternatively, you can download the whole collection of icons from the [svg directory](./svg)
+Icons can be easily copied from [minimicon.com](http://minimicon.com). Click on an icon to copy it to the clipboard. 
+
+Alternatively, you can download the whole collection of icons from the [svg directory](./svg)
 
 ## License
 The icons in this repository are licensed under the MIT License. You can find the full text of the license in the [LICENSE file](./LICENSE).
