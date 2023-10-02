@@ -1,3 +1,4 @@
+[![Deploy](https://github.com/hamer0/minimicon/actions/workflows/deploy.yml/badge.svg)](https://github.com/hamer0/minimicon/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hamer0/minimicon/blob/master/LICENSE)
 
 <p align="center">
