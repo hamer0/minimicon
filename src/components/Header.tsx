@@ -5,7 +5,7 @@ const Header = () => {
       <header className="header">
         <span className="header-section">
           <div className="logo">minimicon</div>
-          <p>pre-release version - icons may change</p>
+          <p className="header-version">pre-release version - icons may change</p>
         </span>
         
         <span className="header-section">

@@ -1,0 +1,30 @@
+.toolbar-base {
+    position: sticky;
+    top: 0;
+    display: flex;
+
+    background-color: white;
+    padding-bottom: 16px;
+}
+
+.toolbar-responsive {
+    flex-direction: column;
+    gap: 8px;
+    height: auto;
+    align-items: start;
+}
+
+.toolbar-responsive > * {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .toolbar-responsive {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+
+        gap: 80px;
+        height: 80px;
+    }
+}

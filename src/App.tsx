@@ -25,19 +25,21 @@ function App() {
 
   return (
     <>
-      <Header />
-      <Hero 
-        iconCount={iconsJSON?.length}
-      />
-      <Toolbar 
-        onselectFormat={setCopyFormat}
-        onsearch={setSearchTerm}
-      />
-      <IconView 
-        iconData={iconsJSON} 
-        searchTerm={searchTerm} 
-        copyFormat={copyFormat}
-      />
+      <div className="app-margin-container">
+        <Header />
+        <Hero 
+          iconCount={iconsJSON?.length}
+        />
+        <Toolbar 
+          onselectFormat={setCopyFormat}
+          onsearch={setSearchTerm}
+        />
+        <IconView 
+          iconData={iconsJSON} 
+          searchTerm={searchTerm} 
+          copyFormat={copyFormat}
+        />
+      </div>
       <Footer />
     </>
   );
