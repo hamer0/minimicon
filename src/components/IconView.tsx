@@ -18,7 +18,7 @@ const IconView = ({
         <div className='icon-view__container'>
             {iconsView &&
             (iconsView.length > 0
-                ? <div className="icon-view">
+                ? <div className="icon-view icon-view-responsive">
                     {iconsView.map(iconData => 
                         <IconCard 
                             key={iconData.name}

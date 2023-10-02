@@ -24,7 +24,7 @@ const RadioGroup = ({
     return (
         <div className='radio-group-container'>
             <label className="radio-group__label" htmlFor={id}>{inputName}</label>
-            <div id={id} className="radio-group">
+            <div id={id} className="radio-group radio-group--responsive">
                 {values.map((value, i) => 
                     <>
                     <input 
@@ -39,7 +39,7 @@ const RadioGroup = ({
                     />
                     <label 
                         key={"label-" + i} 
-                        className="radio__label" 
+                        className="radio__label radio__label--responsive" 
                         htmlFor={value}
                     >
                         {value}

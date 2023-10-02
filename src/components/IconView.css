@@ -1,9 +1,17 @@
 .icon-view {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Adjust minmax() for fixed width */
     gap: 20px;
-    
     padding-bottom: 40px;
+}
+
+.icon-view-responsive {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+}
+
+@media (min-width: 768px) {
+    .icon-view-responsive {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
 }
 
 .icon-card {
