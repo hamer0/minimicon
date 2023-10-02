@@ -1,15 +1,15 @@
-# React Vite
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hamer0/minimicon/blob/master/LICENSE)
 
-This project it a skeleton of **React** and **Vite** (and **Typescript**)! It was created to ensure a clean slate, with production grade features such as properly configured **eslint**, using **Vite** and **SWC** for a faster development experience and hot reloads. **Vite** also uses **Rollup** as a bundler, which is much more efficient than standard **Webpack**.
+<p align="center">
+  <img src=https://github.com/hamer0/minimicon/assets/77765949/931be716-e300-4e39-ad3c-f93478005730 width="300"/>
+</p>
 
-## Commands
+<p align="center">
+  A free library of minimal SVG icons. Available to copy in SVG, JSX and React Native SVG formats.
+</p>
 
-- npm start - run your project in development mode
-- npm run lint - check your project for any warnings via **eslint**
-- npm run format - format your project using **prettier**
-- npm run build - build your project
-- npm run preview - test your built project
+## Usage
+Go to the site and click on an icon to copy it to the clipboard. Alternatively, you can download the whole collection of icons from the [svg directory](./svg)
 
-## Types folder
-
-The **tsconfig.json** is already set up to handle types from a `@types` folder inside the `src` directory.
+## License
+The icons in this repository are licensed under the MIT License. You can find the full text of the license in the [LICENSE file](./LICENSE).
