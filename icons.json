@@ -32,8 +32,20 @@
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 9V7M4.1 10.5H11.9C12.2314 10.5 12.5 10.2314 12.5 9.9V6.1C12.5 5.76863 12.2314 5.5 11.9 5.5H4.1C3.76863 5.5 3.5 5.76863 3.5 6.1V9.9C3.5 10.2314 3.76863 10.5 4.1 10.5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
+    "name": "bin",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.94133 12H6.05867C5.74389 12 5.48262 11.7567 5.4602 11.4427L5.04591 5.64275C5.0211 5.29543 5.29618 5 5.64439 5H10.3556C10.7038 5 10.9789 5.29543 10.9541 5.64275L10.5398 11.4427C10.5174 11.7567 10.2561 12 9.94133 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M4.5 5L11.5 5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7 5V4.5C7 3.94772 7.44772 3.5 8 3.5V3.5C8.55228 3.5 9 3.94772 9 4.5V5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M7 7V10M9 10V7\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
     "name": "book-open",
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4.50001C9 3.5 12 3.5 13 3.5V11.5C12 11.5 9 11.5 8 12.5M8 4.50001C7 3.50001 4 3.49999 3 3.5V11.5C4 11.5 7 11.5 8 12.5M8 4.50001V12.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "bug-small",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 6.5V9.5C9.5 10.3284 8.82843 11 8 11C7.17157 11 6.5 10.3284 6.5 9.5V6.5C6.5 5.67157 7.17157 5 8 5C8.82843 5 9.5 5.67157 9.5 6.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9.5 8H11.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 7.00001L10.3162 6.72793C10.7246 6.59182 11 6.20968 11 5.77925V5M9.5 9.00001L10.3162 9.27208C10.7246 9.4082 11 9.79033 11 10.2208V11\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.5 8H4.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.5 7L5.68377 6.72792C5.27543 6.59181 5 6.20967 5 5.77924V5M6.5 9L5.68377 9.27208C5.27543 9.40819 5 9.79033 5 10.2208V11\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "bug",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 6V10C10 11.1046 9.10457 12 8 12C6.89543 12 6 11.1046 6 10V6C6 4.89543 6.89543 4 8 4C9.10457 4 10 4.89543 10 6Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M10 8H13\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10 6H11C11.5523 6 12 5.55228 12 5V4M10 10H11C11.5523 10 12 10.4477 12 11V12\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6 8H3\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6 6H5C4.44772 6 4 5.55228 4 5V4M6 10H5C4.44772 10 4 10.4477 4 11V12\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "name": "calendar",
@@ -382,6 +394,14 @@
   {
     "name": "trifold-leaflet",
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 3.5L3.5 4.5V12.5L6.5 11.5M6.5 3.5L9.5 4.5M6.5 3.5V11.5M9.5 4.5L12.5 3.5V11.5L9.5 12.5M9.5 4.5V12.5M6.5 11.5L9.5 12.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "upload-tray",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 10L8 4M8 4L6.5 5.5M8 4L9.5 5.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M11.5 10V12H4.5V10\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "upload",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 10L8 4M8 4L6.5 5.5M8 4L9.5 5.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M5 12H10.9999\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
   },
   {
     "name": "video",
