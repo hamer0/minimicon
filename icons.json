@@ -8,6 +8,10 @@
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 12H4\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8.00004 5.07183L4 12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6 8.5359C6.60808 8.88697 7.11303 9.39192 7.4641 10C7.81517 10.6081 8 11.2979 8 12\" stroke=\"black\"/>\n</svg>\n"
   },
   {
+    "name": "arrow-box-link",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 5H5.6C5.26863 5 5 5.26863 5 5.6V10.4C5 10.7314 5.26863 11 5.6 11H10.4C10.7314 11 11 10.7314 11 10.4V7.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 8L12.5 3.5M12.5 3.5L12.4999 5.50001M12.5 3.5L10.5 3.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
     "name": "arrow-down",
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4L8 12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 12L6.5 10.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M8 12L9.5 10.5\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
   },
@@ -238,6 +242,10 @@
   {
     "name": "layout-2x2",
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.4 6.99999L4.1 7C3.76863 7 3.5 6.73137 3.5 6.4V4.09999C3.5 3.76862 3.76863 3.49999 4.1 3.49999L6.4 3.49999C6.73137 3.49998 7 3.76861 7 4.09999V6.39999C7 6.73136 6.73137 6.99999 6.4 6.99999Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11.9 7.00002L9.60001 7.00005C9.26863 7.00005 9 6.73142 9 6.40005V4.10004C9 3.76867 9.26862 3.50004 9.59999 3.50004L11.9 3.50001C12.2314 3.5 12.5 3.76863 12.5 4.10001V6.40002C12.5 6.73138 12.2314 7.00001 11.9 7.00002Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M11.9 12.5H9.6C9.26863 12.5 9 12.2314 9 11.9V9.6C9 9.26863 9.26863 9 9.6 9H11.9C12.2314 9 12.5 9.26863 12.5 9.6V11.9C12.5 12.2314 12.2314 12.5 11.9 12.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6.40007 12.5H4.10003C3.76865 12.5 3.50001 12.2314 3.50003 11.9L3.50014 9.59997C3.50016 9.26861 3.76879 9 4.10014 9H6.40019C6.73157 9 7.0002 9.26865 7.00019 9.60003L7.00007 11.9C7.00006 12.2314 6.73143 12.5 6.40007 12.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "link",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.56845 10.1077C3.8104 10.8837 3.8104 12.1419 4.56845 12.918C5.32651 13.694 6.55556 13.694 7.31362 12.918L10.0588 10.1077C10.8168 9.33166 10.8168 8.07346 10.0588 7.29743C9.30073 6.52139 8.07168 6.52139 7.31362 7.29743M8.6862 8.70256C7.92814 9.4786 6.69909 9.4786 5.94103 8.70256C5.18298 7.92653 5.18298 6.66833 5.94103 5.89229L8.6862 3.08202C9.44426 2.30599 10.6733 2.30599 11.4314 3.08202C12.1894 3.85806 12.1894 5.11626 11.4314 5.89229\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "name": "location-pin",
