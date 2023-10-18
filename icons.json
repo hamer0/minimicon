@@ -176,6 +176,14 @@
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 5L7.99996 8L4 11V5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M8 5L12 8L8 11V5Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
+    "name": "gauge-high",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"8\" cy=\"9.5\" r=\"1\" fill=\"black\"/>\n<path d=\"M10.3318 5.65129C9.64935 5.23779 8.86918 5.01321 8.07131 5.00057C7.27343 4.98792 6.48654 5.18767 5.7913 5.57933C5.09605 5.971 4.51746 6.54049 4.11483 7.22945C3.71219 7.9184 3.5 8.70202 3.5 9.5M12.5 9.4998C12.5 9.07006 12.4384 8.64253 12.3171 8.23025M8 9.5L12 6.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
+    "name": "gauge-low",
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"1\" cy=\"1\" r=\"1\" transform=\"matrix(-1 0 0 1 9 8.5)\" fill=\"black\"/>\n<path d=\"M5.66817 5.65129C6.35065 5.23779 7.13082 5.01321 7.92869 5.00057C8.72657 4.98792 9.51346 5.18767 10.2087 5.57933C10.9039 5.971 11.4825 6.54049 11.8852 7.22945C12.2878 7.9184 12.5 8.70202 12.5 9.5M3.5 9.4998C3.50002 9.07006 3.5616 8.64253 3.68285 8.23025M8 9.5L4 6.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
+  },
+  {
     "name": "graph-trend-down",
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 4V11.75C3 11.8881 3.11193 12 3.25 12H13\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M12 10L10.2911 7.26645C10.2059 7.13013 10.016 7.10852 9.90232 7.22219L8.32834 8.79618C8.22076 8.90375 8.04284 8.89111 7.95156 8.7694L5.12451 5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
@@ -202,14 +210,6 @@
   {
     "name": "grid-3x1",
     "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.9 12H4.1C3.76863 12 3.5 11.7314 3.5 11.4V4.6C3.5 4.26863 3.76863 4 4.1 4H11.9C12.2314 4 12.5 4.26863 12.5 4.6V11.4C12.5 11.7314 12.2314 12 11.9 12Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M6.5 4V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n<path d=\"M9.5 4V12\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
-  },
-  {
-    "name": "guage-high",
-    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"8\" cy=\"9.5\" r=\"1\" fill=\"black\"/>\n<path d=\"M10.3318 5.65129C9.64935 5.23779 8.86918 5.01321 8.07131 5.00057C7.27343 4.98792 6.48654 5.18767 5.7913 5.57933C5.09605 5.971 4.51746 6.54049 4.11483 7.22945C3.71219 7.9184 3.5 8.70202 3.5 9.5M12.5 9.4998C12.5 9.07006 12.4384 8.64253 12.3171 8.23025M8 9.5L12 6.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
-  },
-  {
-    "name": "guage-low",
-    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"1\" cy=\"1\" r=\"1\" transform=\"matrix(-1 0 0 1 9 8.5)\" fill=\"black\"/>\n<path d=\"M5.66817 5.65129C6.35065 5.23779 7.13082 5.01321 7.92869 5.00057C8.72657 4.98792 9.51346 5.18767 10.2087 5.57933C10.9039 5.971 11.4825 6.54049 11.8852 7.22945C12.2878 7.9184 12.5 8.70202 12.5 9.5M3.5 9.4998C3.50002 9.07006 3.5616 8.64253 3.68285 8.23025M8 9.5L4 6.5\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n"
   },
   {
     "name": "hanger",
